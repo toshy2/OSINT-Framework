@@ -17,12 +17,8 @@ https://osintframework.com
 (R) - Requires registration  
 (M) - Indicates a URL that contains the search term and the URL itself must be edited manually  
 
-### For Update Notifications
-Follow me on Twitter: @jnordine - https://twitter.com/jnordine  
-Watch or star the project on Github: https://github.com/lockfale/osint-framework
-
 ### Suggestions, Comments, Feedback
-Feedback or new tool suggestions are extremely welcome!  Please feel free to submit a pull request or open an issue on github or reach out on Twitter.
+Feedback or new tool suggestions are extremely welcome!  Please feel free to submit a pull request or open an issue on github.
 
 ### Contribute with a GitHub Pull Request
 For new resources, please ensure that the site is available for public and free use.
